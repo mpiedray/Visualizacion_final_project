@@ -33,9 +33,9 @@ Para calcular el índice de dimensión de cada caso en concreto es decir en espe
 
 
 * **Educación:**
-+ El valor mínimo 0 años.
-+ Valor máximo esta esta en 18 años. (equivalente a haber obtenido una titulación universitaria).
-+ La escolarización media fija su máximo en 15 años.
+  + El valor mínimo 0 años.
+  + Valor máximo esta esta en 18 años. (equivalente a haber obtenido una titulación universitaria).
+  + La escolarización media fija su máximo en 15 años.
 
 
 * **PIB per cápita:**
