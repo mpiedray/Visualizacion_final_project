@@ -28,8 +28,8 @@ Para calcular el índice de dimensión de cada caso en concreto es decir en espe
 `Índice de dimensión = (valor actual – valor mínimo) / (valor máximo – valor mínimo)`
 
 * **Esperanza de vida:**
-+ El valor mínimo 20 años.
-+ Valor máximo 85 años.
+  + El valor mínimo 20 años.
+  + Valor máximo 85 años.
 
 
 * **Educación:**
@@ -39,8 +39,8 @@ Para calcular el índice de dimensión de cada caso en concreto es decir en espe
 
 
 * **PIB per cápita:**
-+ La cifra mínima en 100 dólares.
-+ La cifra máximo en 75.000 dólares.
+  + La cifra mínima en 100 dólares.
+  + La cifra máximo en 75.000 dólares.
 
 El valor máximo se ha fijado en 75.000 dólares porque se ha visto que no existen ganancias significativamente diferente en el desarrollo humano y el bienestar cuando el PIB supera esa cifra.
 
