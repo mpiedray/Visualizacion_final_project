@@ -93,3 +93,5 @@ También tenemos filtros que nos dejan en este caso elegir por paises, para pode
 Cabe destacar que al modificar el filtro del país cambia completamente el dashboard, ya que cada elemento esta relacionado con ese filtro y toda la información que se muestra es relacionada con el país seleccionado.
 
 Por ultimos tenemos enlaces o link en cada dashboard que nos permiten movernos por los diferentes dashoard.
+
+[Visualización](https://public.tableau.com/app/profile/maite6542/viz/practica_16415437771040/Main_1)
