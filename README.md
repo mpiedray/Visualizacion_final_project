@@ -52,19 +52,44 @@ Si un país tiene el máximo en todo, su IDH es de 1, lo cual significa que tien
 
 ***
 
-1. El proceso de creación siguió y decisiones de diseño que se han tomado a lo largo del desarrollo.
-2. La presentación in situ de la visualización, es decir, comentar sobre las características de la visualización mientras navega.
-3. El conjunto de datos que se muestran.
-4. Las preguntas que contengan la vista.
+**1. El proceso de creación que se siguió y decisiones de diseño que se han tomado a lo largo del desarrollo.**
 
-¿Se ha conseguido disminuir la brecha salarial entre hombres y mujeres en paises desarrollados?
-¿Ha disminuido la desigualda social entre hombres y mujeres (tanto para paises desarrollas como los que no?
-¿Se ha aumentado la presencia femenina a la hora de obtener educación?
-¿Como ha variado el ausentismos en los colegios a todos los niveles?
-¿ Se ha conseguido recuperar algún ecosistema, o no dañar mas el que ya estaba dañado? ¿Se ha conseguido un desarrollo sostenible en algún país?
-¿Como ha variado en todos los paises los niveles de vacuanacion en ninos y adolescentes? ¿Como ha variado en indice de calidad de vida?
-¿Ha aumenta o disminuido por paises/zonas la esperanza de vida?
-¿Podra alcanzarse algunos de los objetivos que marca la ODS para el 2030?
+En mi caso comence con el diseño visualizando un mapa, para usarlo como filtro, para poder ir filtrando por paises las caracteristicas que queria destacar, finalmente opte por quitar el mapa y seguir filtrando por paises usando un selector, ya que a la hora de crear un dashboard el mapa ocupaba demasiado espacio para usarlo solo como filtro, de hecho valore la posibilidad de poner informacion sobre el pero iagualmente no me convencio, ya que al haber mas elementos en el dashboard el mapa se mostraba pequeño para mostrar información sobre el.
 
+Finalmente mi visualización esta formada por tres dashboard unidos todos con enlaces para poder ir saltando de uno a otro. He dividido las visualizacion por temas, en mi caso dos:
+- Salud: Donde se responbde a a las preguntsa sde inmunizacion de la poblacion, acceso a agua potable y demas, aspectos de mortalidad infantil, etc.
 
-5. Los elementos interactivos disponibles como parte de la pantalla.
+- Educacion y Empleo: Donde se responden a las preguntas de tasas de desempleo, educación en cuanto a paises, etc.
+
+Cada uno de los temas es un dashboard y el tercero es el dashboard principal desde donde se puede acceder al resto.
+
+**2. La presentación in situ de la visualización, es decir, comentar sobre las características de la visualización mientras navega.**
+
+Se explica en el video.
+
+**3. El conjunto de datos que se muestran.**
+
+He usado los datos que seleccione en la práctica 1, si bien es cierto que nos lo use todos porque el dataset era bastante extenso, en este caso use los relacionados con temas de salud, educación y empleo, que cubren la mayoría de las preguntas planteadas.
+
+Previo a empezar a crear la visualizacion tuve que tratar  los datos, de manera que pudieran ser entendidos por la aplicacion que iba a usar, en este caso Tableau Public
+
+**4. Las preguntas que contengan la vista.**
+
+1. ¿Se ha conseguido disminuir la brecha salarial entre hombres y mujeres?
+
+2. ¿Ha disminuido la desigualda social entre hombres y mujeres (tanto para paises desarrollas como los que no?
+
+3. ¿Se ha aumentado la presencia femenina a la hora de obtener educación?
+
+4. ¿Como ha variado el ausentismos en los colegios a todos los niveles?
+
+6. ¿Como ha variado en todos los paises los niveles de vacuanacion en ninos y adolescentes? ¿Como ha variado en indice de calidad de vida?
+
+**5. Los elementos interactivos disponibles como parte de la pantalla.**
+
+En nuestra visualización tenemos varios elementos de navegación y composición que nos permiten estudiar los datos. Por un lado tenemos colores, usando el rojo para aspectos femeninos y el azul para aspectos  masculinos, lo cual nos es mas facil de leer visualmente, ya que estamos acostumbrados a esos colores a la hora de hablar de genero.
+
+También tenemos filtros que nos dejan en este caso elegir por paises, para poder comparar unos con otros y asi ver las diferencias.
+Cabe destacar que al modificar el filtro del país cambia completamente el dashboard, ya que cada elemento esta relacionado con ese filtro y toda la información que se muestra es relacionada con el país seleccionado.
+
+Por ultimos tenemos enlaces o link en cada dashboard que nos permiten movernos por los diferentes dashoard.
