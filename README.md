@@ -83,7 +83,7 @@ Previo a empezar a crear la visualizacion tuve que tratar  los datos, de manera 
 
 4. ¿Como ha variado el ausentismos en los colegios a todos los niveles?
 
-6. ¿Como ha variado en todos los paises los niveles de vacuanacion en ninos y adolescentes? ¿Como ha variado en indice de calidad de vida?
+6. ¿Como ha variado en todos los paises los niveles de vacuanacion en ninos y adolescentes? 
 
 **5. Los elementos interactivos disponibles como parte de la pantalla.**
 
